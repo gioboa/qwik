@@ -33,5 +33,4 @@ export function getBuildBase(opts: RenderToStringOptions) {
 /** @public */
 export const versions = {
   qwik: (globalThis as any).QWIK_VERSION as string,
-  qwikDom: (globalThis as any).QWIK_DOM_VERSION as string,
 } as const;

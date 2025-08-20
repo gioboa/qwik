@@ -205,7 +205,6 @@ export type SymbolsToPrefetch = 'auto' | ((opts: {
 // @public (undocumented)
 export const versions: {
     readonly qwik: string;
-    readonly qwikDom: string;
 };
 
 // (No @packageDocumentation comment for this package)

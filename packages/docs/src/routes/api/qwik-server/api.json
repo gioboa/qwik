@@ -376,7 +376,7 @@
         }
       ],
       "kind": "Variable",
-      "content": "```typescript\nversions: {\n    readonly qwik: string;\n    readonly qwikDom: string;\n}\n```",
+      "content": "```typescript\nversions: {\n    readonly qwik: string;\n}\n```",
       "editUrl": "https://github.com/QwikDev/qwik/tree/main/packages/qwik/src/server/utils.ts",
       "mdFile": "qwik.versions.md"
     }

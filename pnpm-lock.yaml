@@ -707,8 +707,6 @@ importers:
         specifier: 2.6.1
         version: 2.6.1
 
-  packages/qwik-dom: {}
-
   packages/qwik-labs:
     devDependencies:
       '@builder.io/qwik':
